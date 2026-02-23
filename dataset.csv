@@ -1,0 +1,38 @@
+text,intent
+When does admission start?,admission
+Admission opening date?,admission
+How can I enroll?,admission
+How to apply for admission?,admission
+What documents are required for admission?,admission
+Is admission open now?,admission
+When is the deadline for admission?,admission
+
+How much is the fee?,fee
+Tell me about fee structure,fee
+What is the tuition fee?,fee
+Do you have installment plan?,fee
+Any scholarship available?,fee
+Is there any discount?,fee
+What is the registration fee?,fee
+
+What courses are available?,course
+List of courses,course
+Available programs?,course
+Do you offer IT program?,course
+Do you have engineering program?,course
+Do you offer business management?,course
+Is computer science available?,course
+
+Where is the university located?,location
+University location?,location
+Campus address?,location
+How can I reach the campus?,location
+Is it near city center?,location
+Which township is the university in?,location
+
+Is there a hostel?,facility
+Do you have hostel facility?,facility
+Do you provide dormitory?,facility
+Is library available?,facility
+Do you have sports facilities?,facility
+Is there a canteen?,facility
